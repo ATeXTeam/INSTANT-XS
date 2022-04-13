@@ -9,7 +9,7 @@ enjoy the app!
 
 
 ## INSTRUCTIONS!!!
-STEP-1:- Go to INSTALL.msi in the repositry and click download.
+STEP-1:- Go to v0.1.msi in the repositry and click download.
 
 STEP-2:- Install the app and you are done!
 
