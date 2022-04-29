@@ -9,9 +9,9 @@ enjoy the app!
 
 
 ## INSTRUCTIONS!!!
-STEP-1:- Go to v0.1.msi in the repositry and click download.
+STEP-1:- download INSTANT-XS.zip and extract it in a folder.
 
-STEP-2:- Install the app and you are done!
+STEP-2:- and goto the folder and click "main.exe"
 
 STEP-3:- *Nothing*
 <!-- so you're reading this
