@@ -1,5 +1,5 @@
 # Owner: ATeXTeam
-# project founder: Naveed Usman aka SNUcoder
+# project founder: Naveed Usman also known as SNUcoder
 # Date: 4-28-22 1:08pm
 
 print('please wait... \n')
