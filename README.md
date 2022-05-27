@@ -1,5 +1,4 @@
-[![image](https://user-images.githubusercontent.com/98022575/170679638-ee54a933-10a7-404a-9790-67905a5d07e2.png)](https://github.com/ATeXTeam/INSTANT-XS/blob/main/LICENSE)
-
+![License](https://img.shields.io/badge/License-MIT-brightgreen)  ![Version](https://img.shields.io/badge/Version-0.3.0-blue) 
 # INSTANT-XS
 
 This is a app "inspired" from ***Linux Terminal*** which is made for slow PCs which cant even open file explorer and people who dont have time
